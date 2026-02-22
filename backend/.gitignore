@@ -1,0 +1,32 @@
+# Backend (Spring Boot)
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+
+# Frontend (React / Node)
+node_modules/
+build/
+dist/
+
+
+# Environment Variables
+
+.env
+
+
+# Logs
+*.log
+
+
+# Virtual Environments
+venv/
+
+
+# IDE Files
+.idea/
+.vscode/
+
+
+# OS Files
+.DS_Store
+Thumbs.db
